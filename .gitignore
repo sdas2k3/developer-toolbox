@@ -1,0 +1,5 @@
+.node/
+.python/
+.venv/
+__pycache__/
+*.pyc
